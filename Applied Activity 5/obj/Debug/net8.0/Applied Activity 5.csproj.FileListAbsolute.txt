@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\EDUCATION & WORKS\IOT1001 - Programming and Logic\Apply Activities\AA5\Applied Activity 5\bin\Debug\net8.0\Applied Activity 5.exe
+C:\Users\Admin\Documents\EDUCATION & WORKS\IOT1001 - Programming and Logic\Apply Activities\AA5\Applied Activity 5\bin\Debug\net8.0\Applied Activity 5.deps.json
+C:\Users\Admin\Documents\EDUCATION & WORKS\IOT1001 - Programming and Logic\Apply Activities\AA5\Applied Activity 5\bin\Debug\net8.0\Applied Activity 5.runtimeconfig.json
+C:\Users\Admin\Documents\EDUCATION & WORKS\IOT1001 - Programming and Logic\Apply Activities\AA5\Applied Activity 5\bin\Debug\net8.0\Applied Activity 5.dll
+C:\Users\Admin\Documents\EDUCATION & WORKS\IOT1001 - Programming and Logic\Apply Activities\AA5\Applied Activity 5\bin\Debug\net8.0\Applied Activity 5.pdb
+C:\Users\Admin\Documents\EDUCATION & WORKS\IOT1001 - Programming and Logic\Apply Activities\AA5\Applied Activity 5\obj\Debug\net8.0\Applied Activity 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\EDUCATION & WORKS\IOT1001 - Programming and Logic\Apply Activities\AA5\Applied Activity 5\obj\Debug\net8.0\Applied Activity 5.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\EDUCATION & WORKS\IOT1001 - Programming and Logic\Apply Activities\AA5\Applied Activity 5\obj\Debug\net8.0\Applied Activity 5.AssemblyInfo.cs
+C:\Users\Admin\Documents\EDUCATION & WORKS\IOT1001 - Programming and Logic\Apply Activities\AA5\Applied Activity 5\obj\Debug\net8.0\Applied Activity 5.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\EDUCATION & WORKS\IOT1001 - Programming and Logic\Apply Activities\AA5\Applied Activity 5\obj\Debug\net8.0\Applied Activity 5.dll
+C:\Users\Admin\Documents\EDUCATION & WORKS\IOT1001 - Programming and Logic\Apply Activities\AA5\Applied Activity 5\obj\Debug\net8.0\refint\Applied Activity 5.dll
+C:\Users\Admin\Documents\EDUCATION & WORKS\IOT1001 - Programming and Logic\Apply Activities\AA5\Applied Activity 5\obj\Debug\net8.0\Applied Activity 5.pdb
+C:\Users\Admin\Documents\EDUCATION & WORKS\IOT1001 - Programming and Logic\Apply Activities\AA5\Applied Activity 5\obj\Debug\net8.0\Applied Activity 5.genruntimeconfig.cache
+C:\Users\Admin\Documents\EDUCATION & WORKS\IOT1001 - Programming and Logic\Apply Activities\AA5\Applied Activity 5\obj\Debug\net8.0\ref\Applied Activity 5.dll
